@@ -1,1 +1,1 @@
-tabela mais simples possível feita em html e css
+uma tabela simples com o planejamento dos meus estudos
